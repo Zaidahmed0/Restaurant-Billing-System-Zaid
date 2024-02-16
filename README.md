@@ -61,4 +61,4 @@ If you encounter any issues or have any questions about the Restaurant Billing S
 This billing system software is proprietary and licensed to the restaurant for internal use only. Redistribution or modification of the software without explicit permission is prohibited.
 
 ---
-Feel free to customize and expand upon this README file based on your specific implementation details and requirements!
+
