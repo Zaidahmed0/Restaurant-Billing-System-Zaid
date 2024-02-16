@@ -1,6 +1,6 @@
-# restaurant-billing-system-
+# restaurant-Billing-System-
 
-# Restaurant Billing System
+
 
 ## Overview
 
@@ -54,7 +54,7 @@ The Restaurant Billing System is a software solution designed to simplify the bi
 
 ## Support
 
-If you encounter any issues or have any questions about the Restaurant Billing System, please contact our support team at support@example.com for assistance.
+If you encounter any issues or have any questions about the Restaurant Billing System, please contact our support team at Shaikhzaida@outlook.com for assistance.
 
 ## License
 
